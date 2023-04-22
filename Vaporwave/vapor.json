@@ -15,26 +15,7 @@
       "TEXT_LINK": ["#5E81AC"]
    },
    "rawColors": {
-      "PRIMARY_100": "#D8DEE9",
-      "PRIMARY_200": "#4C566A",
-      "PRIMARY_300": "#7390AD",
-      "PRIMARY_360": "#81A1C1",
-      "PRIMARY_400": "#617991",
-      "PRIMARY_500": "#476181",
-      "PRIMARY_600": "#2E3440",
-      "PRIMARY_630": "#434C5E",
-      "PRIMARY_660": "#434C5E",
-      "PRIMARY_700": "#2E3440",
-      "PRIMARY_800": "#2E3440",
-
-      "BRAND_260": "#8199B1",
-      "BRAND_360": "#5E81AC",
-      "BRAND_500": "#434C5E",
-      "BRAND_560": "#4C566A",
-      "WHITE_500": "#D8DEE9",
-      "YELLOW_300": "#4C566A",
-      "GREEN_360": "#4C566A",
-      "RED_400": "#BF616A"
+      "PRIMARY_100": "#D8DEE9"
    },
    "background": {
       "blur": 1,
