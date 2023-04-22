@@ -8,9 +8,9 @@
       }
    ],
    "semanticColors": {
-      "HEADER_PRIMARY": ["#E30B5C"],
+      "HEADER_PRIMARY": ["#D95FCC"],
       "HEADER_SECONDARY": ["#00ff00"],
-      "TEXT_NORMAL": ["#0000FF"],
+      "TEXT_NORMAL": ["#EABDF7"],
       "TEXT_MUTED": ["#FF0000"],
       "TEXT_LINK": ["#5E81AC"],
       "INTERACTIVE_NORMAL": ["#81A1C1"],
@@ -37,7 +37,7 @@
       "TEXT_DANGER": ["#BF616A"],
       "KEYBOARD": ["#2E3440"],
       "CHANNEL_ICON": ["#81A1C1"],
-      "CHAT_BACKGROUND": ["#2E3440"],
+      "CHAT_BACKGROUND": ["#0000ffff"],
       "SPOILER_HIDDEN_BACKGROUND": ["#434C5E"],
       "SPOILER_REVEALED_BACKGROUND": ["#5B6272"]
    },
