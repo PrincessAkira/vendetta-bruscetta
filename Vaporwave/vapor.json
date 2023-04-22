@@ -18,11 +18,11 @@
       "CHAT_BACKGROUND": ["#202121"]
    },
    "rawColors": {
-      "PRIMARY_100": "#D8DEE9"
+      "PRIMARY_100": "#202121"
    },
    "background": {
       "blur": 1,
       "url": "https://raw.githubusercontent.com/PrincessAkira/vendetta-bruscetta/main/Vaporwave/vapor.webp",
-      "alpha": 0.3
+      "alpha": 1
    }
 }
