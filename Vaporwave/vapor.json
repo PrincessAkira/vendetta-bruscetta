@@ -9,10 +9,11 @@
    ],
    "semanticColors": {
       "HEADER_PRIMARY": ["#D95FCC"],
-      "HEADER_SECONDARY": ["#00ff00"],
+      "HEADER_SECONDARY": ["#B965A3"],
       "TEXT_NORMAL": ["#EABDF7"],
       "TEXT_MUTED": ["#FF0000"],
-      "TEXT_LINK": ["#5E81AC"]
+      "TEXT_LINK": ["#5E81AC"],
+      "CHAT_BACKGROUND": ["#0000ffff"]
    },
    "rawColors": {
       "PRIMARY_100": "#D8DEE9"
