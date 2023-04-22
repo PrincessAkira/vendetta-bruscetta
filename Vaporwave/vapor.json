@@ -20,9 +20,9 @@
       "BACKGROUND_FLOATING": ["#6e125e"],
       "BACKGROUND_FLOATING_ALT": ["#6e125e"],
       "BACKGROUND_MOBILE_PRIMARY": ["#6e125e"],
-      "BACKGROUND_MOBILE_SECONDARY": ["rgb(128, 27, 89)"],
-      "BACKGROUND_MOBILE_FLOATING": ["rgb(128, 27, 89)"],
-      "BACKGROUND_ACCENT": ["rgb(128, 27, 89)"],
+      "BACKGROUND_MOBILE_SECONDARY": ["rgb(189, 53, 136)"],
+      "BACKGROUND_MOBILE_FLOATING": ["rgb(189, 53, 136)"],
+      "BACKGROUND_ACCENT": ["rgb(189, 53, 136)"],
       "CHAT_BACKGROUND": ["rgba(28, 27, 28,0.2)"]
    },
    "rawColors": {
