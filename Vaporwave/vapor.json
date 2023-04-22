@@ -9,8 +9,8 @@
    ],
    "semanticColors": {
       "HEADER_PRIMARY": ["#D95FCC"],
-      "HEADER_SECONDARY": ["rgba(54,204,217)"],
-      "TEXT_NORMAL": ["rgba(215, 119, 242, 1)"],
+      "HEADER_SECONDARY": ["rgb(54,204,217)"],
+      "TEXT_NORMAL": ["rgb(215, 119, 242)"],
       "TEXT_MUTED": ["#A370F2"],
       "TEXT_LINK": ["#B965A3"],
       "BACKGROUND_PRIMARY": ["#300350"],
