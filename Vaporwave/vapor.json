@@ -8,22 +8,22 @@
       }
    ],
    "semanticColors": {
-      "HEADER_PRIMARY": ["#D95FCC"],
+      "HEADER_PRIMARY": ["#rgb(237, 62, 218)"],
       "HEADER_SECONDARY": ["rgba(54,204,217, 1)"],
       "TEXT_NORMAL": ["rgba(215, 119, 242, 1)"],
       "TEXT_MUTED": ["#A370F2"],
       "TEXT_LINK": ["#B965A3"],
-      "BACKGROUND_PRIMARY": ["#300350"],
+      "BACKGROUND_PRIMARY": ["rgb(48, 3, 80)"],
       "BACKGROUND_SECONDARY": ["#6e125e"],
       "BACKGROUND_SECONDARY_ALT": ["#6e125e"],
       "BACKGROUND_TERTIARY": ["#6e125e"],
       "BACKGROUND_FLOATING": ["#6e125e"],
       "BACKGROUND_FLOATING_ALT": ["#6e125e"],
       "BACKGROUND_MOBILE_PRIMARY": ["#6e125e"],
-      "BACKGROUND_MOBILE_SECONDARY": ["#BF48924B"],
-      "BACKGROUND_MOBILE_FLOATING": ["#BF48924B"],
-      "BACKGROUND_ACCENT": ["#BF48924B"],
-      "CHAT_BACKGROUND": ["#1c1b1c33"]
+      "BACKGROUND_MOBILE_SECONDARY": ["rgb(128, 27, 89)"],
+      "BACKGROUND_MOBILE_FLOATING": ["rgb(128, 27, 89)"],
+      "BACKGROUND_ACCENT": ["rgb(128, 27, 89)"],
+      "CHAT_BACKGROUND": ["rgba(28, 27, 28,0.2)"]
    },
    "rawColors": {
       "PRIMARY_100": "#202121"
