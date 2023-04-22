@@ -13,6 +13,8 @@
       "TEXT_NORMAL": ["#EABDF7"],
       "TEXT_MUTED": ["#FF0000"],
       "TEXT_LINK": ["#5E81AC"],
+      "BACKGROUND_PRIMARY": ["#300350"],
+      "BACKGROUND_SECONDARY": ["#94167F"],
       "CHAT_BACKGROUND": ["#0000ffff"]
    },
    "rawColors": {
