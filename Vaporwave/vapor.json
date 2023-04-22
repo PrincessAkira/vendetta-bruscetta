@@ -14,8 +14,8 @@
       "TEXT_MUTED": ["rgb(163, 112, 242)"],
       "TEXT_LINK": ["#B965A3"],
       "BACKGROUND_PRIMARY": ["rgb(255,0,0)"],
-      "BACKGROUND_SECONDARY": ["rgba(110, 18, 94, 0.3)"],
-      "BACKGROUND_SECONDARY_ALT": ["rgba(110, 18, 94, 0.3)"],
+      "BACKGROUND_SECONDARY": ["rgba(110, 18, 94, 0.7)"],
+      "BACKGROUND_SECONDARY_ALT": ["rgba(110, 18, 94, 0.7)"],
       "BACKGROUND_TERTIARY": ["rgb(110, 18, 94)"],
       "BACKGROUND_FLOATING": ["rgb(110, 18, 94)"],
       "BACKGROUND_FLOATING_ALT": ["rgb(110, 18, 94)"]
