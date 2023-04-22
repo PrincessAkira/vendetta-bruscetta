@@ -8,7 +8,7 @@
       }
    ],
    "semanticColors": {
-      "HEADER_PRIMARY": ["rgb(221, 31, 242)"],
+      "HEADER_PRIMARY": ["rgb(215, 119, 242)"],
       "HEADER_SECONDARY": ["rgb(54,204,217)"],
       "TEXT_NORMAL": ["rgb(215, 119, 242)"],
       "TEXT_MUTED": ["rgb(163, 112, 242)"],
@@ -20,10 +20,11 @@
       "BACKGROUND_FLOATING": ["rgb(110, 18, 94)"],
       "BACKGROUND_FLOATING_ALT": ["rgb(110, 18, 94)"],
       "BACKGROUND_MOBILE_PRIMARY": ["rgba(110, 18, 94, 1)"],
-      "BACKGROUND_MOBILE_SECONDARY": ["rgb(184, 26, 102, 0.9)"],
+      "BACKGROUND_MOBILE_SECONDARY": ["rgba(184, 26, 102, 0.9)"],
       "BACKGROUND_MOBILE_FLOATING": ["rgb(189, 53, 136)"],
       "BACKGROUND_ACCENT": ["rgb(255, 0, 255)"],
-      "CHAT_BACKGROUND": ["rgb(255, 255,0)"]
+      "CHAT_BACKGROUND": ["rgb(255, 255,0)"],
+      "BACKGROUND_NESTED_FLOATING": ["rgba(184, 26, 102, 0.9)"]
    },
    "rawColors": {
       "PRIMARY_100": "#202121"
