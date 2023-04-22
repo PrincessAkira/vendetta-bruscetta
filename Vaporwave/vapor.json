@@ -23,7 +23,7 @@
       "BACKGROUND_MOBILE_SECONDARY": ["rgb(130, 18, 94)"],
       "BACKGROUND_MOBILE_FLOATING": ["rgb(189, 53, 136)"],
       "BACKGROUND_ACCENT": ["rgb(255, 0, 255)"],
-      "CHAT_BACKGROUND": ["rgb(255, 255,0)"],
+      "CHAT_BACKGROUND": ["rgb(255, 0,0)"],
       "BACKGROUND_NESTED_FLOATING": ["rgb(130, 18, 94)"],
       "BACKGROUND_MODIFIER_SELECTED": ["rgba(110, 18, 94, 0.2)"]
    },
