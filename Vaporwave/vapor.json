@@ -16,7 +16,7 @@
       "BACKGROUND_PRIMARY": ["rgba(110, 18, 94, 0.7)"],
       "BACKGROUND_SECONDARY": ["rgba(110, 18, 94, 0.7)"],
       "BACKGROUND_SECONDARY_ALT": ["rgba(110, 18, 94, 0.7)"],
-      "BACKGROUND_TERTIARY": ["rgb(110, 18, 94)"],
+      "BACKGROUND_TERTIARY": ["rgb(150, 18, 94)"],
       "BACKGROUND_FLOATING": ["rgb(110, 18, 94)"],
       "BACKGROUND_FLOATING_ALT": ["rgb(110, 18, 94)"],
       "BACKGROUND_MOBILE_PRIMARY": ["rgba(110, 18, 94, 1)"],
