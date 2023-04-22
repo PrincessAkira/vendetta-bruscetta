@@ -8,7 +8,7 @@
       }
    ],
    "semanticColors": {
-      "HEADER_PRIMARY": ["#rgb(237, 62, 218)"],
+      "HEADER_PRIMARY": ["rgb(237, 62, 218)"],
       "HEADER_SECONDARY": ["rgba(54,204,217, 1)"],
       "TEXT_NORMAL": ["rgba(215, 119, 242, 1)"],
       "TEXT_MUTED": ["#A370F2"],
