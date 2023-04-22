@@ -14,7 +14,9 @@
       "TEXT_MUTED": ["rgb(163, 112, 242)"],
       "TEXT_LINK": ["#B965A3"],
       "BACKGROUND_PRIMARY": ["rgb(110, 18, 94)"],
-      "BACKGROUND_SECONDARY": ["rgba(110, 18, 94, 0.3)"]
+      "BACKGROUND_SECONDARY": ["rgba(110, 18, 94, 0.3)"],
+      "BACKGROUND_SECONDARY_ALT": ["rgba(110, 18, 94, 0.3)"],
+      "BACKGROUND_TERTIARY": ["rgb(110, 18, 94)"]
    },
    "rawColors": {
       "PRIMARY_100": "#202121"
