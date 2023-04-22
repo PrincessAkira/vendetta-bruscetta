@@ -14,16 +14,7 @@
       "TEXT_MUTED": ["rgb(163, 112, 242)"],
       "TEXT_LINK": ["#B965A3"],
       "BACKGROUND_PRIMARY": ["rgb(48, 3, 80)"],
-      "BACKGROUND_SECONDARY": ["rgb(110, 18, 94)"],
-      "BACKGROUND_SECONDARY_ALT": ["rgb(110, 18, 94)"],
-      "BACKGROUND_TERTIARY": ["rgb(0, 255, 255)"],
-      "BACKGROUND_FLOATING": ["rgb(110, 18, 94)"],
-      "BACKGROUND_FLOATING_ALT": ["rgb(110, 18, 94)"],
-      "BACKGROUND_MOBILE_PRIMARY": ["rgb(110, 18, 94)"],
-      "BACKGROUND_MOBILE_SECONDARY": ["rgb(189, 53, 136)"],
-      "BACKGROUND_MOBILE_FLOATING": ["rgb(189, 53, 136)"],
-      "BACKGROUND_ACCENT": ["rgb(189, 53, 136)"],
-      "CHAT_BACKGROUND": ["rgba(28, 27, 28, 1)"]
+      "BACKGROUND_SECONDARY": ["rgb(110, 18, 94)"]
    },
    "rawColors": {
       "PRIMARY_100": "#202121"
