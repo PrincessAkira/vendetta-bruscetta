@@ -9,7 +9,7 @@
    ],
    "semanticColors": {
       "HEADER_PRIMARY": ["#D95FCC"],
-      "HEADER_SECONDARY": ["#1eeafc"],
+      "HEADER_SECONDARY": ["#36ccd9"],
       "TEXT_NORMAL": ["#EABDF7"],
       "TEXT_MUTED": ["#A370F2"],
       "TEXT_LINK": ["#B965A3"],
@@ -23,7 +23,7 @@
       "BACKGROUND_MOBILE_SECONDARY": ["#BF4892"],
       "BACKGROUND_MOBILE_FLOATING": ["#BF4892"],
       "BACKGROUND_ACCENT": ["#BF4892"],
-      "CHAT_BACKGROUND": ["#0000ffff"]
+      "CHAT_BACKGROUND": ["#1c1b1c33"]
    },
    "rawColors": {
       "PRIMARY_100": "#202121"
