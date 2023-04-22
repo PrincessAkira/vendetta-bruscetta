@@ -19,8 +19,8 @@
       "BACKGROUND_TERTIARY": ["rgb(110, 18, 94)"],
       "BACKGROUND_FLOATING": ["rgb(110, 18, 94)"],
       "BACKGROUND_FLOATING_ALT": ["rgb(110, 18, 94)"],
-      "BACKGROUND_MOBILE_PRIMARY": ["rgb(150, 14, 127)"],
-      "BACKGROUND_MOBILE_SECONDARY": ["rgb(110, 18, 94, 0.7)"]
+      "BACKGROUND_MOBILE_PRIMARY": ["rgba(110, 18, 94, 0.7)"],
+      "BACKGROUND_MOBILE_SECONDARY": ["rgb(150, 14, 127)"]
    },
    "rawColors": {
       "PRIMARY_100": "#202121"
