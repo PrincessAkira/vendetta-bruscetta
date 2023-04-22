@@ -11,7 +11,7 @@
       "HEADER_PRIMARY": ["#D95FCC"],
       "HEADER_SECONDARY": ["#eb6eca"],
       "TEXT_NORMAL": ["#EABDF7"],
-      "TEXT_MUTED": ["#FF0000"],
+      "TEXT_MUTED": ["#A370F2"],
       "TEXT_LINK": ["#B965A3"],
       "BACKGROUND_PRIMARY": ["#300350"],
       "BACKGROUND_SECONDARY": ["#94167F"],
