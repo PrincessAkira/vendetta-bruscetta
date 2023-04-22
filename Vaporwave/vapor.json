@@ -22,13 +22,14 @@
       "BACKGROUND_MOBILE_PRIMARY": ["#94167F"],
       "BACKGROUND_MOBILE_SECONDARY": ["#94167F"],
       "BACKGROUND_MOBILE_FLOATING": ["#94167F"],
+      "BACKGROUND_ACCENT": ["#94167F"],
       "CHAT_BACKGROUND": ["#202121"]
    },
    "rawColors": {
       "PRIMARY_100": "#202121"
    },
    "background": {
-      "blur": 1,
+      "blur": 0,
       "url": "https://raw.githubusercontent.com/PrincessAkira/vendetta-bruscetta/main/Vaporwave/vapor.webp",
       "alpha": 1
    }
