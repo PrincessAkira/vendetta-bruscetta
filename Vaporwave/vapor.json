@@ -65,8 +65,8 @@
    },
    "spec": 2,
    "background": {
-      "blur": 0.3,
+      "blur": 1,
       "url": "https://raw.githubusercontent.com/PrincessAkira/vendetta-bruscetta/main/Vaporwave/vapor.webp?token=GHSAT0AAAAAACBEDH7XXEHFY7ZZYF56NKDKZCD4XTQ",
-      "alpha": 0.7
+      "alpha": 1
    }
 }
