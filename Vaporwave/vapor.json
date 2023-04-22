@@ -9,13 +9,13 @@
    ],
    "semanticColors": {
       "HEADER_PRIMARY": ["#D95FCC"],
-      "HEADER_SECONDARY": ["#B965A3"],
+      "HEADER_SECONDARY": ["#eb6eca"],
       "TEXT_NORMAL": ["#EABDF7"],
       "TEXT_MUTED": ["#FF0000"],
-      "TEXT_LINK": ["#5E81AC"],
+      "TEXT_LINK": ["#B965A3"],
       "BACKGROUND_PRIMARY": ["#300350"],
       "BACKGROUND_SECONDARY": ["#94167F"],
-      "CHAT_BACKGROUND": ["#0000ffff"]
+      "CHAT_BACKGROUND": ["#202121"]
    },
    "rawColors": {
       "PRIMARY_100": "#D8DEE9"
