@@ -63,10 +63,9 @@
       "GREEN_360": "#4C566A",
       "RED_400": "#BF616A"
    },
-   "spec": 2,
    "background": {
       "blur": 1,
       "url": "https://raw.githubusercontent.com/PrincessAkira/vendetta-bruscetta/main/Vaporwave/vapor.webp?token=GHSAT0AAAAAACBEDH7XXEHFY7ZZYF56NKDKZCD4XTQ",
-      "alpha": 1
+      "alpha": 0.3
    }
 }
