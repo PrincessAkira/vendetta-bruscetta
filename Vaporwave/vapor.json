@@ -17,7 +17,7 @@
       "BACKGROUND_SECONDARY": ["rgb(163, 112, 241)"],
       "BACKGROUND_SECONDARY_ALT": ["rgba(130, 18, 94, 1)"],
       "BACKGROUND_TERTIARY": ["rgb(235, 33, 181)"],
-      "BACKGROUND_FLOATING": ["rgb(235, 33, 181)"],
+      "BACKGROUND_FLOATING": ["rgb(130, 18, 94)"],
       "BACKGROUND_FLOATING_ALT": ["rgb(235, 33, 181)"],
       "BACKGROUND_MOBILE_PRIMARY": ["rgba(235, 33, 181, 1)"],
       "BACKGROUND_MOBILE_SECONDARY": ["rgb(130, 18, 94)"],
@@ -27,7 +27,10 @@
       "CHAT_BACKGROUND": ["rgba(235, 33, 181, 0.7)"],
       "BACKGROUND_NESTED_FLOATING": ["rgb(130, 18, 94)"],
       "BACKGROUND_MODIFIER_SELECTED": ["rgba(123, 246, 255, 0.65)"],
-      "INTERACTIVE_NORMAL": ["rgb(116, 239, 239)"]
+      "INTERACTIVE_NORMAL": ["rgb(116, 239, 239)"],
+      "INTERACTIVE_ACTIVE": ["rgb(116, 239, 239)"],
+      "CHANNEL_TEXT_AREA_PLACEHOLDER": ["rgb(7, 255, 224)"],
+      "TEXT_DANGER:": ["rgb(250, 230, 68)"]
    },
    "rawColors": {
       "PRIMARY_100": "#202121"
