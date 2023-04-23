@@ -34,7 +34,7 @@
    },
    "rawColors": {
       "PRIMARY_600": "rgba(130, 18, 94, 0.8)",
-      "PRIMARY_100": "rgb(235, 33, 181)",
+      "PRIMARY_100": "rgb(235 , 33, 181)",
       "PRIMARY_200": "rgb(215, 119, 242)",
       "PRIMARY_360": "rgb(254, 191, 78)",
       "PRIMARY_400": "rgb(7, 255, 208)",
