@@ -33,6 +33,29 @@
       "TEXT_DANGER:": ["rgb(250, 230, 68)"]
    },
    "rawColors": {
-      "PRIMARY_600": "rgb(130, 18, 94, 0.3)"
+      "PRIMARY_600": "rgb(130, 18, 94, 0.3)",
+      "PRIMARY_100": "rgb(235, 33, 181)",
+      "PRIMARY_200": "rgb(215, 119, 242)",
+      "PRIMARY_360": "rgb(254, 191, 78)",
+      "PRIMARY_400": "rgb(7, 255, 208)",
+      "PRIMARY_500": "rgb(7, 255, 208)",
+      "PRIMARY_630": "rgb(130, 18, 94, 0.3)",
+      "PRIMARY_660": "rgb(130, 18, 94, 0.3)",
+      "PRIMARY_700": "rgb(130, 18, 94)",
+      "BRAND_260": "#E59EFF",
+      "BRAND_300": "#DC9AF4",
+      "BRAND_330": "#D393EA",
+      "BRAND_345": "#CE90E5",
+      "BRAND_360": "#CE8EE5",
+      "BRAND_400": "#C388D8",
+      "BRAND_430": "#BE83D3",
+      "BRAND_460": "#B77ECC",
+      "BRAND_500": "#AE78C1",
+      "BRAND_530": "#A471B7",
+      "BRAND_560": "#A070B2",
+      "BRAND_600": "#9466A5",
+      "BRAND_630": "#9065A0",
+      "BRAND_660": "#896099",
+      "BRAND_700": "#80598E"
    }
 }
