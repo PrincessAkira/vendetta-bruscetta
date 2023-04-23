@@ -14,8 +14,8 @@
       "TEXT_MUTED": ["rgb(163, 112, 242)"],
       "TEXT_LINK": ["rgb(48, 3, 80)"],
       "BACKGROUND_PRIMARY": ["rgba(110, 18, 94, 0.8)"],
-      "BACKGROUND_SECONDARY": ["rgba(110, 18, 94, 0.6)"],
-      "BACKGROUND_SECONDARY_ALT": ["rgba(110, 18, 94, 1)"],
+      "BACKGROUND_SECONDARY": ["rgba(255, 0,0, 0.6)"],
+      "BACKGROUND_SECONDARY_ALT": ["rgba(0,255,0, 1)"],
       "BACKGROUND_TERTIARY": ["rgb(235, 33, 181)"],
       "BACKGROUND_FLOATING": ["rgb(235, 33, 181)"],
       "BACKGROUND_FLOATING_ALT": ["rgb(235, 33, 181)"],
@@ -26,7 +26,7 @@
       "BACKGROUND_ACCENT": ["rgb(255, 0, 0)"],
       "CHAT_BACKGROUND": ["rgb(151, 68, 238)"],
       "BACKGROUND_NESTED_FLOATING": ["rgb(130, 18, 94)"],
-      "BACKGROUND_MODIFIER_SELECTED": ["rgba(110, 18, 94, 0.2)"]
+      "BACKGROUND_MODIFIER_SELECTED": ["rgba(116, 239, 239, 0.5)"]
    },
    "rawColors": {
       "PRIMARY_100": "#202121"
