@@ -15,7 +15,7 @@
       "TEXT_LINK": ["rgb(48, 3, 80)"],
       "BACKGROUND_PRIMARY": ["rgb(130, 18, 94)"],
       "BACKGROUND_SECONDARY": ["rgb(163, 112, 241)"],
-      "BACKGROUND_SECONDARY_ALT": ["rgba(130, 18, 94, 0.6)"],
+      "BACKGROUND_SECONDARY_ALT": ["rgba(130, 18, 94, 1)"],
       "BACKGROUND_TERTIARY": ["rgb(235, 33, 181)"],
       "BACKGROUND_FLOATING": ["rgb(235, 33, 181)"],
       "BACKGROUND_FLOATING_ALT": ["rgb(235, 33, 181)"],
