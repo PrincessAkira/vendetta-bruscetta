@@ -26,7 +26,8 @@
       "BACKGROUND_ACCENT": ["rgb(255, 0, 0)"],
       "CHAT_BACKGROUND": ["rgb(151, 68, 238)"],
       "BACKGROUND_NESTED_FLOATING": ["rgb(130, 18, 94)"],
-      "BACKGROUND_MODIFIER_SELECTED": ["rgba(116, 239, 239, 0.8)"]
+      "BACKGROUND_MODIFIER_SELECTED": ["rgba(116, 239, 239, 0.8)"],
+      "INTERACTIVE_NORMAL": ["rgb(255, 255, 0)"]
    },
    "rawColors": {
       "PRIMARY_100": "#202121"
