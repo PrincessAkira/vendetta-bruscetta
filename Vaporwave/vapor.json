@@ -9,7 +9,7 @@
    ],
    "semanticColors": {
       "HEADER_PRIMARY": ["rgb(7, 255, 208)"],
-      "HEADER_SECONDARY": ["rgb(54,204,217)"],
+      "HEADER_SECONDARY": ["rgb(249, 230, 68)"],
       "TEXT_NORMAL": ["rgb(215, 119, 242)"],
       "TEXT_MUTED": ["rgb(163, 112, 242)"],
       "TEXT_LINK": ["rgb(48, 3, 80)"],
