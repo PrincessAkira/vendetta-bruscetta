@@ -8,12 +8,12 @@
       }
    ],
    "semanticColors": {
-      "HEADER_PRIMARY": ["rgb(116, 239, 239)"],
+      "HEADER_PRIMARY": ["rgb(7, 255, 208)"],
       "HEADER_SECONDARY": ["rgb(54,204,217)"],
       "TEXT_NORMAL": ["rgb(215, 119, 242)"],
       "TEXT_MUTED": ["rgb(163, 112, 242)"],
       "TEXT_LINK": ["rgb(48, 3, 80)"],
-      "BACKGROUND_PRIMARY": ["rgb(130, 18, 94)"],
+      "BACKGROUND_PRIMARY": ["rgba(130, 18, 94, 0.6)"],
       "BACKGROUND_SECONDARY": ["rgb(163, 112, 241)"],
       "BACKGROUND_SECONDARY_ALT": ["rgba(0,255,0, 1)"],
       "BACKGROUND_TERTIARY": ["rgb(235, 33, 181)"],
